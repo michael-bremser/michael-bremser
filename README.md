@@ -47,7 +47,7 @@ Manjaro Linux as a daily driver for seven years — not because a job required i
 
 ## Current Focus
 
-Kubernetes certifications — CKAD target August 2026, CKA immediately after, CKS by end of year.
+Kubernetes certifications — CKAD target October 2026, CKA immediately after, CKS by end of year.
 
 These are hands-on performance-based exams. Two hours, live cluster, no multiple choice. The homelab is the study environment.
 
